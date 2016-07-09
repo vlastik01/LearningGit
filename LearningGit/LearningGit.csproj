@@ -118,6 +118,7 @@
       <DependentUpon>DetailViewController.cs</DependentUpon>
     </Compile>
     <Compile Include="EmptyClass.cs" />
+    <Compile Include="MyPage.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
 </Project>
