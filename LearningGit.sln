@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningGit", "LearningGit\LearningGit.csproj", "{0DC5F86A-4403-43AA-9D5F-E0D1FC314B64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DC5F86A-4403-43AA-9D5F-E0D1FC314B64}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{0DC5F86A-4403-43AA-9D5F-E0D1FC314B64}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{0DC5F86A-4403-43AA-9D5F-E0D1FC314B64}.Release|iPhone.ActiveCfg = Release|iPhone
+		{0DC5F86A-4403-43AA-9D5F-E0D1FC314B64}.Release|iPhone.Build.0 = Release|iPhone
+		{0DC5F86A-4403-43AA-9D5F-E0D1FC314B64}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{0DC5F86A-4403-43AA-9D5F-E0D1FC314B64}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{0DC5F86A-4403-43AA-9D5F-E0D1FC314B64}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{0DC5F86A-4403-43AA-9D5F-E0D1FC314B64}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
