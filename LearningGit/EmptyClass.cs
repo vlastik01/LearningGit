@@ -5,7 +5,7 @@ namespace LearningGit
 	{
 		public EmptyClass()
 		{
-			var ii = "kkkkjjprd";
+			var ii = "kkkkjswsssjprd";
 		}
 	}
 }
