@@ -9,6 +9,7 @@ namespace LearningGit
 		{
 			// if you want to use a different Application Delegate class from "AppDelegate"
 			// you can specify it here.
+			int ii = 2;
 			 UIApplication.Main(args, null, "AppDelegate");
 		}
 	}
